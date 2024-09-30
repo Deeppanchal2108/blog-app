@@ -1,0 +1,27 @@
+{
+  "name": "blog-application",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/spinner": "^2.0.34",
+    "axios": "^1.7.7",
+    "mongoose": "^8.6.2",
+    "moongoose": "^0.0.5",
+    "next": "14.2.11",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-toastify": "^10.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.11",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
